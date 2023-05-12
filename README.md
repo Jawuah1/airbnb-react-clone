@@ -1,5 +1,25 @@
 # airbnb-react-clone
 
+## Installation
+
+Use the github repo [node.js/npm](https://pip.pypa.io/en/stable/) to install vite.
+
+```bash
+npm create vite@latest
+cd project file
+npm install
+npm run dev
+```
+
+## Usage
+
+```javascript
+import React from "react"
+import ReactDOM from "react-dom"
+// versions for react 17 and below ^
+
+```
+
 
 <p align="left">
 <a href="https://linkedin.com/in/jesse-awuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesse-awuah" height="30" width="40" /></a>
