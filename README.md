@@ -20,6 +20,13 @@ import ReactDOM from "react-dom"
 
 ```
 
+### :hammer_and_wrench: GIF EXAMPLE :
+
+<img src="http://g.recordit.co/fKd6ida6KU.gif"><br>
+
+# Live Version (Netlify)
+https://stellar-taffy-20a90d.netlify.app/
+
 
 <p align="left">
 <a href="https://linkedin.com/in/jesse-awuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesse-awuah" height="30" width="40" /></a>
