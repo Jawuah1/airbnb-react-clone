@@ -1,5 +1,6 @@
 # airbnb-react-clone
-
+This GitHub repository contains a project that aims to recreate the popular Airbnb website using React, HTML, CSS, JavaScript, Vite, and Figma.
+The Vite tool is employed to rapidly set up the React application, allowing for efficient development and hot module replacement. Figma, a design tool, is used to create the visual designs and wireframes for the Airbnb clone site.
 ## Installation
 
 Use the github repo [node.js/npm](https://pip.pypa.io/en/stable/) to install vite.
